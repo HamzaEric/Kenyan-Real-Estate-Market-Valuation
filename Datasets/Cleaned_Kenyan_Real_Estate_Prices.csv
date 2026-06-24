@@ -1,0 +1,1758 @@
+selling price,no_of_bedrooms,has_servant_quarters,property_type,clean_location,zoning_tier
+130000000,6.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+26950000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+16000000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+45000000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+72000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+46000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+75000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+140000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+15000000,4.0,0,Villa,Other,Other_Unclassified
+60000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+85000000,4.0,1,Villa,Westlands,Premium Nairobi Suburbs
+130000000,6.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+65000000,5.0,1,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+15000000,3.0,1,Villa,Other,Other_Unclassified
+55000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+48000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+88000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+27000000,4.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+150000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+120000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+110000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+90000000,5.0,0,Villa,Watamu,Coastal Market Corridor
+85000000,3.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+59000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+90000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+150000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+95000000,5.0,0,Villa,Naivasha,Upcountry Luxury Zone
+24000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+90000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+23000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+130000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+60000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+50000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+115000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+38000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+16500000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+32250000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+65000000,4.0,1,Villa,Westlands,Premium Nairobi Suburbs
+39000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+9500000,3.0,1,Villa,Ruiru,Kiambu/Thika_Road Corridor
+15000000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+16500000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+16000000,3.0,0,Townhouse,Other,Other_Unclassified
+28000000,3.0,0,Townhouse,Mombasa,Coastal Market Corridor
+8950000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+85000000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+50600000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+150000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+55000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+28000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+38000000,5.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+70250000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+140000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+85000000,4.0,0,Villa,Malindi,Coastal Market Corridor
+9500000,3.0,1,Villa,Ruiru,Kiambu/Thika_Road Corridor
+19000000,5.0,1,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+155000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+20000000,3.0,0,Villa,Malindi,Coastal Market Corridor
+20000000,4.0,0,Villa,Malindi,Coastal Market Corridor
+38500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+5300000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+8500000,4.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+29999000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+25000000,5.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+72499999,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7200000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+90000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+26500000,3.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+17000000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+64990000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+70000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+28000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+30500000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+17000000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+29500000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+15500000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+14500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+20000000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+65000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+27000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+75000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+38000000,3.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+150000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+31500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+27000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+24000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+16200000,3.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+6800000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+27000000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+70000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+65000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+75000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+11500000,4.0,0,Townhouse,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+10300000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+14000000,4.0,0,Townhouse,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+22500000,3.0,0,Villa,Other,Other_Unclassified
+85000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+7500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+8850000,4.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+22500000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+170000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+59000000,5.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+99000000,5.0,1,Villa,Karen,Premium Nairobi Suburbs
+7600000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+83000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+35000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+20000000,5.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+31000000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+70000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,1,Villa,Lavington,Premium Nairobi Suburbs
+7700000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+40000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18500000,5.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+48000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+19500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+74000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+45000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+15500000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+22500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+69000000,4.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+160000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+145000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+7500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+34000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+38000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+13000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+7200000,3.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+90000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+10500000,3.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+48000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+21000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+70000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+17500000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+30000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+70000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+12600000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+13500000,3.0,1,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+64000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+16499000,5.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+95000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+25000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+56000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+13000000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+60000000,3.0,0,Villa,Diani,Coastal Market Corridor
+11950000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+22500000,8.0,0,Villa,Mtwapa,Coastal Market Corridor
+6100000,3.0,0,Villa,Other,Other_Unclassified
+12100000,3.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+24000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+26000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+9500000,3.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+11000000,3.0,0,Villa,Kisumu,Upcountry Luxury Zone
+13500000,2.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+55000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+125000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+17000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+68000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+72000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+12600000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+14200000,4.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+100000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+38000000,5.0,0,Villa,South C,High Density Upcoming Suburbs
+75000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+63000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+55000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+12500000,3.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+14500000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+31500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+90000000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+22000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+15000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+66000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+10500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+70000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+90000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+95000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+9500000,3.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12500000,4.0,0,Townhouse,Ongata Rongai,SatelliteTowns/Commuter Belt
+90000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+20000000,2.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+110000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+29000000,4.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+95000000,4.0,0,Villa,Diani,Coastal Market Corridor
+105000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+10500000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+100000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+29000000,4.0,1,Villa,South C,High Density Upcoming Suburbs
+25000000,5.0,1,Townhouse,Lang'ata,High Density Upcoming Suburbs
+40000000,4.0,1,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+135000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+6500000,3.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+100000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+16500000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+10500000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+12000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+26000000,2.0,0,Villa,Watamu,Coastal Market Corridor
+72000000,3.0,0,Townhouse,Malindi,Coastal Market Corridor
+48000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+11000000,3.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+45000000,5.0,0,Townhouse,Nyali,Coastal Market Corridor
+58000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+6500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+150000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+29000000,4.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+56000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+4500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+14000000,3.0,1,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+38000000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+55000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+13000000,3.0,0,Townhouse,South B,High Density Upcoming Suburbs
+45000000,2.0,0,Villa,Diani,Coastal Market Corridor
+30000000,4.0,1,Townhouse,Kilimani,Premium Nairobi Suburbs
+10500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+100000000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+30500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+80000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+5700000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+31000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+26500000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+17500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+35000000,3.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+33000000,3.0,0,Villa,Diani,Coastal Market Corridor
+35000000,6.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+26000000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+135000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+14000000,3.0,0,Villa,Naivasha,Upcountry Luxury Zone
+75000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18500000,4.0,1,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+50000000,5.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+67000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+150000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+29000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+30000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+38500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+75000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+45000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+27500000,3.0,0,Villa,Malindi,Coastal Market Corridor
+67500000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7800000,3.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+12500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+25945000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,6.0,0,Villa,Other,Other_Unclassified
+23000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+24000000,4.0,0,Townhouse,South C,High Density Upcoming Suburbs
+105000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+99000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+17000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+23000000,5.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+37000000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+17000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+125000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+15000000,6.0,0,Villa,Other,Other_Unclassified
+43000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+130000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+61950000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+24500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+7200000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+87000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+13000000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+28000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+60000000,5.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13500000,3.0,0,Villa,Nyali,Coastal Market Corridor
+128000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+39000000,5.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+12000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+75000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+85000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+75000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+37500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+33000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6300000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+19000000,3.0,1,Townhouse,South C,High Density Upcoming Suburbs
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+6000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+150000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+55000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+20000000,5.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+11950000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+7000000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+12000000,4.0,0,Townhouse,Thika,Kiambu/Thika_Road Corridor
+160000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+10500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+8000000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+80000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+40000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+121000000,6.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+5800000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+78000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+13800000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+120000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+14500000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+83000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+90000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+60000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+85000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+19250000,2.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+8150000,3.0,1,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+48000000,5.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+165000000,4.0,0,Villa,Naivasha,Upcountry Luxury Zone
+70000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,5.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+110000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+85000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+88000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+12500000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+155000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+23000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+12300000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+100000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+25000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+8500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+13000000,4.0,0,Townhouse,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+26500000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+14500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+14750000,4.0,0,Townhouse,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+29990000,4.0,0,Villa,Malindi,Coastal Market Corridor
+7200000,3.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+41000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+145000000,6.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+37500000,4.0,0,Villa,South C,High Density Upcoming Suburbs
+15000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+40750000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+36000000,6.0,0,Townhouse,Ongata Rongai,SatelliteTowns/Commuter Belt
+50000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+140000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+15500000,4.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+105000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+10250000,3.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+170000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+14000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+32000000,4.0,0,Townhouse,South C,High Density Upcoming Suburbs
+15000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+78000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7250000,3.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+68000000,4.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+10000000,3.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+28500000,4.0,0,Villa,South B,High Density Upcoming Suburbs
+65000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+67000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+17500000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+85000000,4.0,0,Townhouse,Muthaiga,Premium Nairobi Suburbs
+32500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+29000000,5.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+35000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+30000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+26500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+45000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+150000000,7.0,0,Villa,Lavington,Premium Nairobi Suburbs
+40000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+100000000,4.0,1,Villa,Westlands,Premium Nairobi Suburbs
+120000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+32000000,4.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Thika,Kiambu/Thika_Road Corridor
+32000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+25000000,2.0,0,Villa,Nyali,Coastal Market Corridor
+80000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+5750000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+35000000,3.0,0,Townhouse,Mombasa,Coastal Market Corridor
+110000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+14000000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+65000000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+95000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+28500000,5.0,1,Villa,Ruiru,Kiambu/Thika_Road Corridor
+40000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+97000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+17500000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+18000000,3.0,0,Villa,Kisumu,Upcountry Luxury Zone
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+24500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+64000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+10500000,4.0,0,Villa,Other,Other_Unclassified
+11950000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+90000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+55000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+140000000,7.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+35000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6700000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+9000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+55000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+20500000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+15500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+5800000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+28500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+6700000,3.0,0,Villa,Other,Other_Unclassified
+65000000,4.0,1,Townhouse,Karen,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7700000,4.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+6400000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+14800000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+7400000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+10500000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+50000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+11300000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+18500000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+52000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+85000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+75000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+26000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+39500000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+100000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+42000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+45000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+27000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+23000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+10000000,3.0,1,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+36000000,4.0,0,Villa,Diani,Coastal Market Corridor
+90000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+130000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+80000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+90000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+50950000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+52000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+70000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+22500000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+46000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+125000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+100000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+85000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+12500000,3.0,1,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+6500000,3.0,0,Villa,Other,Other_Unclassified
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7900000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+10500000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+10000000,3.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+65000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+150000000,5.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+121000000,6.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+5850000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+95000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+11500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+90000000,5.0,0,Villa,Watamu,Coastal Market Corridor
+60000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+14500000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+21000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+80000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+16000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+150000000,6.0,0,Villa,Diani,Coastal Market Corridor
+12000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+35000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+70000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+60000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+38000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+11000000,1.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+70000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18000000,3.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+38000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+30000000,3.0,0,Townhouse,Other,Other_Unclassified
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+8500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+15500000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Villa,Diani,Coastal Market Corridor
+6950000,3.0,0,Villa,Diani,Coastal Market Corridor
+46750000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+34000000,4.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+108500000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+26000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+18500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+14500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+45000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+36000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+14500000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+14500000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+12600000,3.0,0,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+120000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+8150000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+38000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+85000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+15000000,3.0,1,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+30000000,4.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+120000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+150000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+31000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+19500000,4.0,1,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+56000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+6800000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+60000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+9980000,1.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+110000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+12800000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+85000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+80000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+55000000,2.0,0,Villa,South C,High Density Upcoming Suburbs
+16000000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+7500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+6250000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+29500000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+20000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+12600000,4.0,1,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+86000000,5.0,1,Villa,Westlands,Premium Nairobi Suburbs
+14000000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+22500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+18000000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+40500000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+36000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+35800000,4.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+70000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+18500000,4.0,1,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+35500000,4.0,1,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+20000000,5.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+150000000,5.0,0,Villa,Mombasa,Coastal Market Corridor
+7500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+38000000,6.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+6000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+18500000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+60000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+48000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+17000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+18500000,5.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+100000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+36000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+19000000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+6250000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+7500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+140000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+15000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+40000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+35000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+30000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+63000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+60000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+5800000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+4500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+120000000,5.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+8500000,3.0,1,Villa,Ruiru,Kiambu/Thika_Road Corridor
+105000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+68000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+25000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+29900000,5.0,1,Villa,Roysambu Area,High Density Upcoming Suburbs
+8500000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+14500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+40000000,3.0,0,Villa,Diani,Coastal Market Corridor
+31000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,5.0,1,Villa,Ruiru,Kiambu/Thika_Road Corridor
+12500000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+45000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+135000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+19950000,3.0,0,Townhouse,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+47000000,4.0,1,Villa,Westlands,Premium Nairobi Suburbs
+67000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+50000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+26950000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+80000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+28000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+65000000,5.0,0,Villa,Diani,Coastal Market Corridor
+16000000,6.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+20000000,1.0,0,Villa,Diani,Coastal Market Corridor
+37000000,4.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+110000000,7.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+50000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+12000000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+13500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+150000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+90000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+75000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+67000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+16500000,5.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+75000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+111000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+2700000,2.0,0,Villa,Other,Other_Unclassified
+75000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+17000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+17000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+19000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+35000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+32000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+41000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+145000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+27000000,4.0,0,Townhouse,Roysambu Area,High Density Upcoming Suburbs
+21000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+92000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+99000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+10500000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+72000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+90000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+40000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+70000000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+145000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+32000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+42000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+120000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+23000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+3700000,3.0,0,Villa,Other,Other_Unclassified
+85000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+58000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+58000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+25000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+13000000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+25000000,3.0,0,Villa,Diani,Coastal Market Corridor
+160000000,4.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+120000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+35000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+29000000,3.0,0,Villa,Malindi,Coastal Market Corridor
+120000000,7.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7500000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+70000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+30000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+43000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+105000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+37000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+7900000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+125000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+97000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+80000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+45000000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+15000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+10000000,4.0,0,Townhouse,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+30000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+120000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+70000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+7700000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+5500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+45000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+82000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+18500000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+39000000,3.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+60000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+10500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+36000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+125000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+59000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+6000000,2.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+55000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+8800000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+35000000,6.0,0,Villa,Mtwapa,Coastal Market Corridor
+59500000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+11800000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+87500000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+95000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+18000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+70000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+27000000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+70000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+36000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+45000000,4.0,0,Villa,Diani,Coastal Market Corridor
+40000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+170000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+16000000,5.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+13000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+85000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+70000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+145000000,7.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+11500000,6.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+28000000,3.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+90000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+42000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+115000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+16500000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+70000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+8000000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+59500000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12500000,3.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+95000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+11250000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+38000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+18000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+15000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+110000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+24500000,4.0,1,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+80000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+41000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+140000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+6250000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+28000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+50000000,5.0,0,Townhouse,Mombasa,Coastal Market Corridor
+95000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+25000000,4.0,0,Villa,Malindi,Coastal Market Corridor
+69000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+55000000,5.0,0,Villa,Diani,Coastal Market Corridor
+7000000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+45000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7900000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+55000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+8000000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+12000000,2.0,0,Villa,Mombasa,Coastal Market Corridor
+63000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+45000000,3.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7500000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+158145000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+97500000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+17000000,4.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+40000000,5.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+150000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+25000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+12000000,3.0,1,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+36500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+140000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+6200000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+85000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+49000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+10500000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+107000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+8000000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+25000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+13500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+16850000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+18000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+68000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+72000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+14500000,4.0,0,Townhouse,Other,Other_Unclassified
+85000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+16500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+65000000,5.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+35000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+100000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+70000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+125000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+68000000,6.0,0,Villa,Mtwapa,Coastal Market Corridor
+75000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+160000000,9.0,0,Townhouse,Nyali,Coastal Market Corridor
+62000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+39500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+17000000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+95000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12600000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+90000000,5.0,0,Townhouse,Nyali,Coastal Market Corridor
+165000000,7.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+50000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+5800000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+14000000,3.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+85000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+52000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+130000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Malindi,Coastal Market Corridor
+170000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+68000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+11500000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+7950000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+17000000,3.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+28000000,1.0,0,Townhouse,Mombasa,Coastal Market Corridor
+21817000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+23000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+92000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+95000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+150000000,6.0,1,Villa,Lavington,Premium Nairobi Suburbs
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+120000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+160000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+125000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Townhouse,Kisumu,Upcountry Luxury Zone
+13000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+85000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+32000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+140000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+25500000,4.0,0,Villa,Mtwapa,Coastal Market Corridor
+12600000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+39000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+5800000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+38500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+123000000,3.0,0,Villa,Westlands,Premium Nairobi Suburbs
+20950000,4.0,0,Villa,South C,High Density Upcoming Suburbs
+34000000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+7500000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+70000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+75000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+48450000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+50000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+20000000,5.0,0,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+69500000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+110000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+52000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+48000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+110000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+20000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+69000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+70000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+43000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+50000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+8950000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+100000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+25000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+55000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+75000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+15000000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+67000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+6500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+90000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+95000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+50000000,3.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+25000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+6000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+7500000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+26500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+65000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+110000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+81420000,4.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+63000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+82000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+67000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+18000000,4.0,1,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+13000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+70000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+25000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+50000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+42000000,4.0,1,Villa,Westlands,Premium Nairobi Suburbs
+15000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+60000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+110000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+59000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+40000000,6.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+150000000,6.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+22000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+50000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+15800000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+85000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+63000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7900000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+17000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+6200000,3.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+75000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+29980000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+47000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+165000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+9950000,3.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+75000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+43000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13500000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+6000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+29000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+28000000,3.0,0,Villa,Diani,Coastal Market Corridor
+38000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+27000000,5.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+18000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+61000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+128000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+22000000,3.0,0,Villa,Watamu,Coastal Market Corridor
+47000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+88000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18000000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+95000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13100000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+45000000,5.0,0,Villa,Mombasa,Coastal Market Corridor
+100000000,4.0,0,Villa,Diani,Coastal Market Corridor
+88000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+70000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+118500000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+16500000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+10950000,2.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+18000000,3.0,1,Townhouse,Other,Other_Unclassified
+70000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+9500000,4.0,0,Villa,Other,Other_Unclassified
+4600000,2.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+68000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+24500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+5800000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+36000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+40000000,4.0,0,Villa,Malindi,Coastal Market Corridor
+37000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+20000000,5.0,0,Villa,Malindi,Coastal Market Corridor
+68000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+12500000,3.0,1,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+45000000,6.0,0,Villa,Watamu,Coastal Market Corridor
+32000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+40000000,3.0,0,Villa,Naivasha,Upcountry Luxury Zone
+55000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+20000000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+15000000,3.0,1,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+8150000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+25500000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+75000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+5500000,3.0,0,Villa,Other,Other_Unclassified
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+65000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+68000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+29900000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+7500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+90000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+63950000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+8500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+12000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+30000000,5.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+33000000,7.0,0,Villa,Watamu,Coastal Market Corridor
+30000000,5.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+16000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+85000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+165000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+105000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18000000,4.0,1,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+12500000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+26000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+70000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+80000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+37000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+135000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+42000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+20000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+135000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+19700000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+25000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+7500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+27000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+49500000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+80000000,7.0,0,Villa,Mtwapa,Coastal Market Corridor
+50000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+39500000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+70000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+48000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+7800000,4.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+50000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+83000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+9500000,2.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+30000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+120000000,5.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+16000000,2.0,0,Villa,Malindi,Coastal Market Corridor
+120000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+6500000,1.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+12500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+7200000,3.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+32000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+45000000,4.0,1,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+45000000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+10000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+55000000,6.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+40000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+9000000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+6500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+7500000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+72000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+140000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+16500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+25000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+65000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+123000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+60000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+14000000,3.0,1,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+68000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+95000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+130000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12600000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+36000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+42000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+17000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+55000000,6.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+130000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+20000000,4.0,0,Townhouse,South B,High Density Upcoming Suburbs
+52000000,5.0,1,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+15500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+90000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+50000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+12500000,3.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+50000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+10500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+30000000,5.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+9500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+38500000,3.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+36000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+30000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+120000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+9000000,5.0,0,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+95000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+60000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+58000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+17500000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+95000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+28500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+28250000,6.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+99000000,5.0,1,Villa,Karen,Premium Nairobi Suburbs
+68000000,5.0,0,Villa,Diani,Coastal Market Corridor
+22500000,4.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+28500000,6.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+65000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+49000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+15000000,3.0,0,Townhouse,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+38000000,6.0,0,Villa,Mtwapa,Coastal Market Corridor
+28000000,6.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+40000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+24000000,5.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+12500000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+36000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+78000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+12500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+7300000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+27000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+12000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+88000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+39000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+43580000,5.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+8950000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+21000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+34450000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+15000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+25000000,8.0,0,Villa,Nyali,Coastal Market Corridor
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+25000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+12000000,4.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+65000000,6.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+36000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+47500000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+75000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+10000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+13000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+55000000,5.0,1,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+37000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+6300000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+67000000,5.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+25000000,4.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+110000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+9500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+80000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+29000000,3.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+24000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+55000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+14000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+18000000,2.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+75000000,4.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+16500000,3.0,0,Townhouse,South C,High Density Upcoming Suburbs
+24500000,4.0,1,Villa,Ngong,SatelliteTowns/Commuter Belt
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+135000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+50000000,6.0,0,Villa,Mtwapa,Coastal Market Corridor
+7500000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+40000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+63000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+80000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+33000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+49000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+11000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+6700000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+85000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18500000,3.0,1,Townhouse,Roysambu Area,High Density Upcoming Suburbs
+26000000,4.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+65000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+26000000,5.0,0,Villa,South C,High Density Upcoming Suburbs
+140000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+6500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+17500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+35000000,5.0,0,Townhouse,Mombasa,Coastal Market Corridor
+25000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+38500000,6.0,0,Villa,Mombasa,Coastal Market Corridor
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+50000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+20950000,4.0,0,Townhouse,South C,High Density Upcoming Suburbs
+130000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+40000000,4.0,1,Townhouse,Kilimani,Premium Nairobi Suburbs
+150000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12000000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+13000000,4.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+4500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+68500000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+24500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+35000000,3.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+23000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+15000000,3.0,1,Villa,Lang'ata,High Density Upcoming Suburbs
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+32000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+6000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+32000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+46000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+22500000,4.0,0,Villa,South C,High Density Upcoming Suburbs
+40000000,5.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+135000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+7400000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+9250000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+5500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+23000000,4.0,0,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+55000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+19000000,3.0,0,Townhouse,Other,Other_Unclassified
+100000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+15500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+7500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+90000000,6.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+8500000,3.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+150000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+135000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+10500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+6200000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+28000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+15000000,1.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+70000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+39000000,4.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+85000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+125000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+115000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+28000000,4.0,1,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+6950000,3.0,0,Villa,Diani,Coastal Market Corridor
+22000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+80000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+18500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+150000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+16000000,3.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+80000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+19500000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+55000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+45000000,3.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+15000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+14000000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+27000000,5.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+58000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+87000000,2.0,0,Villa,Naivasha,Upcountry Luxury Zone
+8600000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+110000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+5800000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+115000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+17500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+55000000,4.0,0,Townhouse,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+80000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+11500000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+16500000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+62000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+40000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+75000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+20000000,4.0,0,Villa,Other,Other_Unclassified
+12500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+23000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+39000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+145000000,5.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+45000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+43000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+6750000,3.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+14150000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+65000000,4.0,0,Villa,Other,Other_Unclassified
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18000000,3.0,0,Townhouse,Malindi,Coastal Market Corridor
+42000000,3.0,0,Townhouse,Diani,Coastal Market Corridor
+16000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+66000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+50000000,3.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+8000000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+27000000,4.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+17500000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+32000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+25000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+17500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+14000000,4.0,0,Villa,Limuru/Tigoni,SatelliteTowns/Commuter Belt
+10000000,3.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+105000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+11500000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+75000000,5.0,0,Villa,Naivasha,Upcountry Luxury Zone
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+34000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+20000000,4.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+30000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+80000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+90000000,5.0,0,Townhouse,Nyali,Coastal Market Corridor
+16500000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+28000000,6.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+120000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+30000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+11000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+34400000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+90000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+58000000,5.0,0,Villa,Mombasa,Coastal Market Corridor
+14500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+15900000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+39500000,5.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+10500000,3.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+15500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+13000000,3.0,1,Townhouse,Nyali,Coastal Market Corridor
+125000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+60000000,4.0,0,Villa,Other,Other_Unclassified
+6800000,2.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+8500000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+60000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+7700000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+11500000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+90000000,5.0,1,Villa,Karen,Premium Nairobi Suburbs
+60000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+29700000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+135000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+19000000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+14150000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+60000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+80000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+100000000,6.0,0,Villa,South C,High Density Upcoming Suburbs
+43000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+80000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+67000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+22000000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+105000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+13500000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+170000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7500000,3.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+22000000,4.0,0,Villa,South B,High Density Upcoming Suburbs
+120000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18500000,4.0,0,Townhouse,South C,High Density Upcoming Suburbs
+38000000,4.0,0,Townhouse,Muthaiga,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+90000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+17000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+130000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+10500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+38500000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+32000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+10000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+16000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+115000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+110000000,6.0,0,Villa,Mombasa,Coastal Market Corridor
+120000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+6800000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+95000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+16000000,5.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+170000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+125000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+42000000,5.0,0,Villa,Nyali,Coastal Market Corridor
+13500000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+130000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+48000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+170000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+26500000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+24000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+62000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+120000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+171375000,3.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+20000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+20000000,4.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+80000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+133000000,6.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+18500000,5.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+12000000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+10500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+90000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+49000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+50000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+21950000,5.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+110000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+100000000,5.0,0,Townhouse,Mombasa,Coastal Market Corridor
+118000000,5.0,1,Villa,Westlands,Premium Nairobi Suburbs
+23000000,3.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+40000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+7500000,2.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+16500000,3.0,1,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+32000000,4.0,1,Townhouse,South C,High Density Upcoming Suburbs
+29500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+13500000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+15500000,5.0,1,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+26000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+60000000,4.0,0,Villa,Watamu,Coastal Market Corridor
+42000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+38000000,3.0,0,Villa,Diani,Coastal Market Corridor
+48000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+120000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+57000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+25000000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+16500000,3.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+90000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+33000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+11700000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+34000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+13000000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+38000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+28500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+20000000,7.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+69000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+75000000,3.0,0,Villa,Mombasa,Coastal Market Corridor
+15000000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+29500000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+5800000,4.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+9500000,3.0,0,Townhouse,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+4500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+120000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+14500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+40000000,3.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+60000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+99000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+47000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+55000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+10000000,3.0,0,Townhouse,Embakasi / Eastlands,High Density Upcoming Suburbs
+24500000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+75000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+8500000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+18000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+23000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+14500000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+55000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+17000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+16500000,4.0,0,Villa,Mombasa,Coastal Market Corridor
+5500000,2.0,0,Villa,Mombasa,Coastal Market Corridor
+12000000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+9000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+60000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+11000000,5.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+42000000,4.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+15000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+45000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+98000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+24000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+47000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+130000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+59000000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+35000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+34000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+75000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+49000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+13600000,3.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+12700000,3.0,0,Villa,South C,High Density Upcoming Suburbs
+17000000,2.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+39000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+170000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+120000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+90000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+33000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+32000000,,0,Villa,Nyali,Coastal Market Corridor
+43000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+53000000,4.0,0,Townhouse,Kilimani,Premium Nairobi Suburbs
+165000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+33000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+10900000,3.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+65000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+13000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+75000000,3.0,0,Villa,Karen,Premium Nairobi Suburbs
+25000000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+10500000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+90000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+8500000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+110000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+20000000,5.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+65000000,5.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+85000000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+5990000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+35000000,5.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+40000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+17800000,3.0,0,Villa,South C,High Density Upcoming Suburbs
+40000000,5.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+7000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+6300000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+7800000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+45000000,6.0,0,Townhouse,Ongata Rongai,SatelliteTowns/Commuter Belt
+100000000,7.0,0,Villa,Karen,Premium Nairobi Suburbs
+48000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+18000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+11500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+30000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+15500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+16000000,3.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+14500000,3.0,0,Villa,Karen,Premium Nairobi Suburbs
+150000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+70000000,5.0,0,Villa,Mombasa,Coastal Market Corridor
+35000000,3.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+45000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+160000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7600000,3.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+4800000,1.0,0,Villa,Malindi,Coastal Market Corridor
+10250000,3.0,1,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+6200000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+40000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+27000000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+10000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+45800000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12000000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+97000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+130000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+8000000,3.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+75000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+65000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+95000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+52000000,4.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+88000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+100000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+110000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+120000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+130000000,7.0,0,Villa,Westlands,Premium Nairobi Suburbs
+21000000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+85000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+12000000,3.0,0,Villa,Kikuyu,SatelliteTowns/Commuter Belt
+25500000,5.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+5250000,3.0,0,Villa,Diani,Coastal Market Corridor
+6500000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+25000000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+72000000,3.0,0,Villa,Nanyuki,Upcountry Luxury Zone
+82000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+60000000,5.0,0,Townhouse,Nyali,Coastal Market Corridor
+135000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12500000,4.0,0,Townhouse,Other,Other_Unclassified
+45000000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+85000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+160000000,6.0,0,Townhouse,Nyali,Coastal Market Corridor
+40000000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+24000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+120000000,6.0,0,Villa,Karen,Premium Nairobi Suburbs
+90000000,4.0,0,Villa,Naivasha,Upcountry Luxury Zone
+40000000,5.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+40000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+24500000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+6000000,3.0,0,Villa,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+18500000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+12000000,3.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+130000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7500000,2.0,0,Townhouse,Mombasa,Coastal Market Corridor
+6200000,4.0,1,Villa,Kitengela,SatelliteTowns/Commuter Belt
+4450000,1.0,0,Villa,Malindi,Coastal Market Corridor
+24500000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+8600000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+32000000,3.0,0,Villa,Watamu,Coastal Market Corridor
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+20000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+65000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+16000000,5.0,0,Townhouse,Mombasa,Coastal Market Corridor
+37000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+16000000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+15000000,5.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+25500000,5.0,0,Villa,Nyali,Coastal Market Corridor
+7700000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+4500000,3.0,0,Villa,Naivasha,Upcountry Luxury Zone
+14500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+38000000,5.0,0,Townhouse,Nyali,Coastal Market Corridor
+16000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+160000000,8.0,1,Villa,Westlands,Premium Nairobi Suburbs
+140000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+40000000,4.0,1,Villa,Muthaiga,Premium Nairobi Suburbs
+20950000,4.0,1,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+12000000,4.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+6500000,3.0,0,Townhouse,Athi River,SatelliteTowns/Commuter Belt
+27000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+39000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+26000000,4.0,0,Villa,South C,High Density Upcoming Suburbs
+20000000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+15500000,4.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+70000000,5.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+19000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+7500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7500000,3.0,0,Townhouse,Mtwapa,Coastal Market Corridor
+55000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+27000000,3.0,0,Townhouse,Mombasa,Coastal Market Corridor
+45000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12500000,3.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+70000000,6.0,0,Villa,Mombasa,Coastal Market Corridor
+150000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+8700000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+85000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+7500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+17000000,3.0,0,Villa,Other,Other_Unclassified
+7500000,4.0,0,Villa,Embakasi / Eastlands,High Density Upcoming Suburbs
+12500000,3.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+28500000,6.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+12600000,4.0,0,Townhouse,Kamulu/Joska/Eastern Bypass,SatelliteTowns/Commuter Belt
+75000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+70000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+21000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+65000000,5.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+20000000,5.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+16000000,3.0,0,Townhouse,Other,Other_Unclassified
+30000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,4.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+28000000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+30000000,4.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+4500000,2.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+26000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+12000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+7000000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+26000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+26800000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+85000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+14800000,3.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+15900000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+61000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+16500000,4.0,1,Villa,Ngong,SatelliteTowns/Commuter Belt
+6750000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+85000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+14000000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+15500000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+29990000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+55000000,5.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+30000000,5.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+160000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+20295000,3.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+11980000,2.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+29400000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+12000000,4.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+27000000,3.0,0,Villa,Nyali,Coastal Market Corridor
+16500000,4.0,0,Townhouse,Mombasa,Coastal Market Corridor
+8500000,3.0,0,Townhouse,Kikuyu,SatelliteTowns/Commuter Belt
+12600000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+138000000,4.0,0,Villa,Muthaiga,Premium Nairobi Suburbs
+12980000,3.0,0,Townhouse,Nyali,Coastal Market Corridor
+85000000,8.0,0,Villa,Nyali,Coastal Market Corridor
+38000000,5.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+6800000,3.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+6250000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+70000000,5.0,0,Villa,Mombasa,Coastal Market Corridor
+6200000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+12500000,2.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+95000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+45000000,6.0,0,Townhouse,Thika,Kiambu/Thika_Road Corridor
+132000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+30000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Karen,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+70000000,6.0,0,Townhouse,Kisumu,Upcountry Luxury Zone
+6000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+72000000,9.0,0,Villa,Westlands,Premium Nairobi Suburbs
+35000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+6500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+16500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+20000000,4.0,0,Villa,Athi River,SatelliteTowns/Commuter Belt
+10500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+95000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+24000000,3.0,0,Townhouse,Kiambu Road,Kiambu/Thika_Road Corridor
+35000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+12500000,4.0,0,Townhouse,Ngong,SatelliteTowns/Commuter Belt
+42500000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+95000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+12000000,4.0,0,Villa,Ongata Rongai,SatelliteTowns/Commuter Belt
+5800000,3.0,0,Villa,Other,Other_Unclassified
+6300000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+41000000,4.0,0,Townhouse,Nyali,Coastal Market Corridor
+45000000,6.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+65000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+16000000,3.0,0,Villa,Lang'ata,High Density Upcoming Suburbs
+80000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+5500000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+135000000,7.0,0,Villa,Nyali,Coastal Market Corridor
+55000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+35000000,5.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+33000000,3.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+26000000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+54000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+45000000,3.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+130000000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+75000000,4.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+33000000,4.0,0,Villa,Nyali,Coastal Market Corridor
+100000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+120000000,6.0,1,Villa,Westlands,Premium Nairobi Suburbs
+121000000,6.0,0,Villa,Lavington,Premium Nairobi Suburbs
+21500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+45000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+41000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+38000000,4.0,0,Townhouse,Kileleshwa,Premium Nairobi Suburbs
+50000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+8500000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+50000000,5.0,1,Townhouse,Lavington,Premium Nairobi Suburbs
+170000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+20500000,4.0,0,Villa,Nyali,Coastal Market Corridor
+23500000,5.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+60000000,5.0,0,Villa,Mtwapa,Coastal Market Corridor
+130000000,5.0,0,Villa,Westlands,Premium Nairobi Suburbs
+100000000,5.0,0,Villa,Kilifi/kikambala/Mtwapa,Coastal Market Corridor
+12000000,3.0,0,Townhouse,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+135000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+70000000,4.0,1,Townhouse,Westlands,Premium Nairobi Suburbs
+40000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+29850000,5.0,0,Townhouse,Roysambu Area,High Density Upcoming Suburbs
+10500000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+28000000,4.0,0,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+5250000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+8700000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+25000000,4.0,0,Villa,Thika,Kiambu/Thika_Road Corridor
+5800000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+4500000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+19000000,4.0,0,Townhouse,Ruiru,Kiambu/Thika_Road Corridor
+13500000,4.0,1,Villa,Kiambu Road,Kiambu/Thika_Road Corridor
+65000000,4.0,0,Villa,Lavington,Premium Nairobi Suburbs
+16500000,4.0,0,Villa,Ngong,SatelliteTowns/Commuter Belt
+95000000,5.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+59000000,5.0,0,Villa,Karen,Premium Nairobi Suburbs
+45000000,4.0,0,Villa,Westlands,Premium Nairobi Suburbs
+10050000,3.0,0,Villa,Juja / Kenyatta Road,Kiambu/Thika_Road Corridor
+100000000,4.0,0,Villa,Kilimani,Premium Nairobi Suburbs
+55000000,4.0,0,Villa,Roysambu Area,High Density Upcoming Suburbs
+16500000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+17000000,3.0,0,Villa,Mtwapa,Coastal Market Corridor
+140000000,5.0,0,Townhouse,Karen,Premium Nairobi Suburbs
+8000000,3.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+13000000,4.0,0,Townhouse,Kitengela,SatelliteTowns/Commuter Belt
+150000000,6.0,0,Villa,Westlands,Premium Nairobi Suburbs
+36000000,4.0,0,Townhouse,Lang'ata,High Density Upcoming Suburbs
+25000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+60000000,5.0,0,Villa,Lavington,Premium Nairobi Suburbs
+13800000,4.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
+35000000,4.0,0,Townhouse,Westlands,Premium Nairobi Suburbs
+7499000,3.0,0,Villa,Diani,Coastal Market Corridor
+18000000,3.0,0,Villa,Kileleshwa,Premium Nairobi Suburbs
+60000000,6.0,0,Villa,Nyali,Coastal Market Corridor
+16000000,4.0,0,Villa,Kitengela,SatelliteTowns/Commuter Belt
+13800000,4.0,0,Villa,Mombasa Road / Syokimau,SatelliteTowns/Commuter Belt
+79000000,4.0,0,Townhouse,Lavington,Premium Nairobi Suburbs
+7800000,3.0,0,Villa,Ruiru,Kiambu/Thika_Road Corridor
