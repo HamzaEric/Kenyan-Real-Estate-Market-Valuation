@@ -1,4 +1,4 @@
-# Nairobi-Houses-Price-Prediction
+# Houses Price Prediction
 
 ## Kenyan Real Estate Valuation Engine
 
